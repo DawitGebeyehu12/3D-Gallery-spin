@@ -10,7 +10,8 @@ Features
     
   -  Customizable Images: Easily replace the images in the gallery by updating the image sources in the HTML.
 
- Technologies Used
+Technologies Used
     
-    -  HTML     
-    -  CSS (Flexbox, Keyframes)
+   -  HTML
+     
+   -  CSS (Flexbox, Keyframes)
